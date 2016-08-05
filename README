@@ -1,0 +1,3 @@
+Running the converter:
+======================
+- php marc-converter.php <path to xml directory> <path to .mrc file>
